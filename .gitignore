@@ -45,6 +45,7 @@ ENV/
 *.log
 
 # Project specific
-screenshots/
+# (apenas a pasta screenshots/ na raiz; docs/screenshots/ é versionada para o entregável)
+/screenshots/
 results/
 .claude/
